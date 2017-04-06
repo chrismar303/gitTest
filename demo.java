@@ -1,7 +1,9 @@
 Class Driver {
 	public static void main(String args[])
 	{
-		System.out.println("Hello World");
+		String welc_msg = "Hello World";
+		System.out.println( welc_msg );
+		
 	}
 
 }
